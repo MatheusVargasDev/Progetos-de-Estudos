@@ -1,2 +1,2 @@
-# EserciciosDev
+# ExerciciosDev
  Aula de HTML
